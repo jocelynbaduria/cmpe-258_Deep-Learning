@@ -1,6 +1,6 @@
 # cmpe-258_Deep-Learning Short Story 
 
-Deep reinforcement learning in medical imaging: A literature review
+Deep Reinforcement Learning in Medical Imaging: A Literature Review
 
 # Abstract
 
