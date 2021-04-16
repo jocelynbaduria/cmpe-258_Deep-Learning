@@ -1,9 +1,10 @@
 # cmpe-258_Deep-Learning Short Story 
 
-1. Proposal Document - [Deep reinforcement learning in medical imaging: A literature review]: https://arxiv.org/pdf/2103.05115.pdf
+1. Proposal Document - [Deep reinforcement learning in medical imaging: A literature review]: (https://arxiv.org/pdf/2103.05115.pdf)
+2. Slide Share - 
 
 2. Medium Article
 
 3. Slideshare 
-4. [1]: http://slashdot.org
+
 
