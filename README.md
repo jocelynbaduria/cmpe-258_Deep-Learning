@@ -1,4 +1,4 @@
-# CMPE - 258 Deep Learning 
+# CMPE - 258 Deep Learning HW Compilations
 
 
 
